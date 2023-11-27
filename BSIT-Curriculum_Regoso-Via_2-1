@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>Curriculum</title>
+</head>
+
+<body>
+<ul>
+<img src="https://www.pup.edu.ph/about/images/PUPLogo.png" width="60" height="60" alt = "error"/>
+</ul>
+
+<ul>
+<b><strong>Republic of the Philippines <br> POLYTECHNIC UNIVERSITY OF THE PHILIPPINES </strong></b>
+</ul>
+
+<ul>
+<table>
+<thead>
+<tr>
+<th width = "0%">REGOSO, VIA NICOLE CHAVEZ</th>
+<th width = "7.5%">A.Y.: 2023-2024 </th>
+<th width = "12%"></th>
+<th width = "7.5%"></th>
+</tr>
+</thead>
+<table>
+
+<tbody>
+<tr>
+<td width = "12%"><strong> 2022-0003-SM-0 </strong></td>
+<td width = "22%"><strong> A.Y.: 2023-2024 </strong></td>
+<td width = "7.5%"><strong> TERM: FIRST SEMESTER </strong></td>
+</tr>
+<tbody>
+</table>
+</ul>
+
+<ul><hr></ul>
+
+<ul>
+<table>
+<thead>
+<tr>
+<th width = "3.1%">PROGRAM DESCRIPTION: BACHELOR OF SCIENCE IN INFORMATION TECHNOLOGY(STA.MARIA) </th>
+<th width = "7.9%">PROGRAM CODE: BSIT -SM </th>
+</tr>
+</thead>
+<table>
+
+<tbody>
+<tr>
+<td width = "12%"><strong> CAMPUS: SANTA MARIA </strong></td>
+<td width = "22%"><strong> YEAR LEVEL: SECOND YEAR </strong></td>
+<td width = "7.5%"><strong> SECTION: 1 </strong></td>
+</tr>
+<tbody>
+
+<tfoot>
+<tr>
+<td width = "30%"><strong>ADDRESS: 414 Bataw St., Brgy.Tumana, SANTA MARIA, Philippines(the)</strong></td>
+<td width = "22%"><strong>CONTACT NO: 09685796473 </strong></td>
+</tr>
+<tfoot>
+</table>
+</ul>
+
+<ul><hr></ul>
+<ul><hr></ul>
+
+
+<ul>
+<table>
+<thead>
+<tr>
+<th width = "6.5%">SUBJECT CODE </th>
+<th width = "10%">SUBJECT TITLE </th>
+<th width = "10%">SECTION CODE </th>
+<th width = "10%">TUITION UNITS </th>
+<th width = "10%">CREDITED UNITS </th>
+<th width = "10%">SCHEDULE </th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td> COMP 006 </td>
+<td> Data Structures and Algorithms </td>
+<td> BSIT-SM 2-1 </td>
+<td> 5.0 </td>
+<td> 3.0 </td>
+<td> S 07:30:00-09:30:00 LEC <br> M 12:30:00-15:30:00 LEC</td>
+</tr>
+
+<tr>
+<td> COMP 007 </td>
+<td> Operating Systems </td>
+<td> BSIT-SM 2-1 </td>
+<td> 5.0 </td>
+<td> 3.0 </td>
+<td> TH 07:30:00-10:30:00 LEC <br> TH 10:30:00-12:30:00 LEC</td>
+</tr>
+
+<tr>
+<td> COMP 008 </td>
+<td> Data Communications and Networking </td>
+<td> BSIT-SM 2-1 </td>
+<td> 5.0 </td>
+<td> 3.0 </td>
+<td> F 07:30:00-10:30:00 LEC <br> F 10:30:00-12:30:00 LEC</td>
+</tr>
+
+<tr>
+<td> ELEC IT-FE1 </td>
+<td> BSIT Free Elective 1 </td>
+<td> BSIT-SM 2-1 </td>
+<td> 3.0 </td>
+<td> 3.0 </td>
+<td> M 07:30:00-10:30:00 LEC </td>
+</tr>
+
+<tr>
+<td> GEED 001 </td>
+<td> Understanding the Self </td>
+<td> BSIT-SM 2-1 </td>
+<td> 3.0 </td>
+<td> 3.0 </td>
+<td> S 17:00:00-20:00:00 LEC </td>
+</tr>
+
+<tr>
+<td> GEED 028 </td>
+<td> Reading Visual Arts </td>
+<td> BSIT-SM 2-1 </td>
+<td> 3.0 </td>
+<td> 3.0 </td>
+<td> W 14:00:00-17:00:00 LEC </td>
+</tr>
+
+<tr>
+<td> INTE 201 </td>
+<td> Programming 3 </td>
+<td> BSIT-SM 2-1 </td>
+<td> 5.0 </td>
+<td> 3.0 </td>
+<td> S 11:30:00-13:30:00 LEC <br> M/T 19:30:00-21:00:00 LEC</td>
+</tr>
+</tbody>
+
+<tfoot>
+<tr>
+<td> PATHFIT </td>
+<td> Physical Activity Towards Health and Fitness 3 </td>
+<td> BSIT-SM 2-1 </td>
+<td> 2.0 </td>
+<td> 2.0 </td>
+<td> TH 17:00:00-19:00:00 LEC </td>
+</tr>
+</tfoot>
+
+</table>
+</ul>
+
+<center>
+<p>x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-xNOTHING FOLLOWSx-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x</p>
+</center>
+
+<ul><hr></ul>
+</body>
+
+</html>
